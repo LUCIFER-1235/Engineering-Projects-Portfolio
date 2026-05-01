@@ -7,7 +7,7 @@ Welcome to my engineering project portfolio. This repository showcases my work i
 
 An advanced autonomous robot using centroid-based path detection and intelligent control algorithms.
 
-🔗 Project Link: https://github.com/YOUR-USERNAME/line-follower-esp32
+🔗 Project Link: https://github.com/LUCIFER-1235/line-follower-esp32.git
 
 Key Highlights:
 
@@ -20,7 +20,7 @@ Key Highlights:
 
 A real-time radar visualization system using ultrasonic sensor + servo motor + Processing GUI.
 
-🔗 Project Link: https://github.com/YOUR-USERNAME/arduino-radar-ultrasonic
+🔗 Project Link: https://github.com/LUCIFER-1235/arduino-radar-ultrasonic.git
 
 Key Highlights:
 
@@ -33,7 +33,7 @@ Key Highlights:
 
 A solar PV system integrated with the grid using power electronics and MPPT control.
 
-🔗 Project Link: https://github.com/YOUR-USERNAME/grid-connected-pv-simulink
+🔗 Project Link: https://github.com/LUCIFER-1235/grid-connected-pv-simulink.git
 
 Key Highlights:
 
@@ -46,7 +46,7 @@ Key Highlights:
 
 Simulation of a grid-connected wind energy system with turbine modeling and power control.
 
-🔗 Project Link: https://github.com/YOUR-USERNAME/wind-energy-simulink-model
+🔗 Project Link: https://github.com/LUCIFER-1235/wind-energy-simulink-model.git
 
 Key Highlights:
 
